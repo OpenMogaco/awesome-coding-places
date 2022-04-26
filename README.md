@@ -2,7 +2,9 @@
 
 모각코/혼각코 하기 좋은 공공에 개방된 카페, 코워킹 스페이스, 스터디 룸 등의 장소에 대한 정보들을 모으기 위한 리포지터리입니다. Pull Request를 통하여 정보를 모으고 업데이트하는 방식으로 이 리포지터리를 운영해 나갑니다.
 
-[모각코 페이스북 그룹](https://fb.com/groups/mogaco) 바로 가기
+- [모각코 페이스북 그룹](https://fb.com/groups/mogaco)
+- [리포지터리 열어보기](https://github.com/OpenMogaco/awesome-coding-places)
+- [GitHub 웹 에디터 (vscode.dev)에서 편집하기](http://github.dev/OpenMogaco/awesome-coding-places)
 
 ## 서울
 
