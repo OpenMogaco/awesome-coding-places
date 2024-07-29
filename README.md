@@ -11,4 +11,10 @@
 
 아래 주소로 접속한 다음, 네이버 계정 로그인을 하시면 전체 리스트를 볼 수 있습니다.
 
-https://naver.me/FuzJJ4LP
+[https://naver.me/FuzJJ4LP](https://naver.me/FuzJJ4LP)
+
+## 새로운 장소 제보, 이전/이관, 폐업/폐관 등 피드백 전달
+
+아래 주소로 접속하여 새로운 장소에 대한 제보나 기존 장소의 이전/이관, 폐업/폐관 및 기타 건의 사항을 남기실 수 있습니다.
+
+[https://github.com/OpenMogaco/awesome-coding-places/issues/new/choose](https://github.com/OpenMogaco/awesome-coding-places/issues/new/choose)
