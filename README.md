@@ -1,6 +1,6 @@
 # awesome-coding-places
 
-모각코/혼각코 하기 좋은 공공에 개방된 카페, 코워킹 스페이스, 스터디 룸 등의 장소에 대한 정보들을 모으기 위한 리포지터리입니다. Pull Request를 통하여 정보를 모으고 업데이트하는 방식으로 이 리포지터리를 운영해 나갑니다.
+모각코/혼각코 하기 좋은 공공에 개방된 카페, 코워킹 스페이스, 스터디 룸 등의 장소에 대한 정보들을 모으기 위한 리포지터리입니다. 제보를 통하여 정보를 모으고 업데이트하는 방식으로 이 리포지터리를 운영해 나갑니다.
 
 - [홈페이지 보기](https://openmogaco.github.io/awesome-coding-places/)
 - [모각코 페이스북 그룹](https://fb.com/groups/mogaco)
@@ -11,10 +11,10 @@
 
 아래 주소로 접속한 다음, 네이버 계정 로그인을 하시면 전체 리스트를 볼 수 있습니다.
 
-[https://naver.me/FuzJJ4LP](https://naver.me/FuzJJ4LP)
+[네이버 지도 목록 바로 보기](https://naver.me/FuzJJ4LP)
 
 ## 새로운 장소 제보, 이전/이관, 폐업/폐관 등 피드백 전달
 
 아래 주소로 접속하여 새로운 장소에 대한 제보나 기존 장소의 이전/이관, 폐업/폐관 및 기타 건의 사항을 남기실 수 있습니다.
 
-[https://github.com/OpenMogaco/awesome-coding-places/issues/new/choose](https://github.com/OpenMogaco/awesome-coding-places/issues/new/choose)
+[장소 제보/건의하기](https://github.com/OpenMogaco/awesome-coding-places/issues/new/choose)
