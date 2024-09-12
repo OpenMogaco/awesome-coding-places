@@ -17,4 +17,4 @@
 
 아래 주소로 접속하여 새로운 장소에 대한 제보나 기존 장소의 이전/이관, 폐업/폐관 및 기타 건의 사항을 남기실 수 있습니다.
 
-[장소 제보/건의하기](https://github.com/OpenMogaco/awesome-coding-places/issues/new/choose)
+[장소 제보/건의하기](https://forms.gle/Lz82cijGVjHrffjS7)
